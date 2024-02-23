@@ -1,0 +1,10 @@
+01. write an arrow function that will take 3 parameters, will multiply the parameters and will return the result.
+02. Write the following sentences in three lines and print the result: "I am a web developer. I lovo to code. I love to eat biriyni.
+03. Write and arrow funcion that will take 2 paramenter. One parameter will come from you and other parameter will be a default paramenter. Add these paramenters and return the result.
+04. Write an arrow function where it wll do the following:
+    a> It will take an array where the array element will be the name of your friends.
+    b> Check if the length of each element is even, push elements with even length to a new array and return the result.
+05. Write and arrow function where it will do the following:
+    a> Square each array elements
+    b> Calculate the sum of the squared elements
+    c> Return the average of the sum of the squared elements.
