@@ -8,3 +8,38 @@
     a> Square each array elements
     b> Calculate the sum of the squared elements
     c> Return the average of the sum of the squared elements.
+    --------------------MORE TASKS---------------
+    
+Certainly! Here are some additional tasks to help you sharpen your knowledge about working with arrays and functions in JavaScript:
+
+Find Friends with Long Names:
+Write a function that takes an array of friend names and returns another array containing only the names with more than 5 characters.
+
+Convert Names to Uppercase:
+Write a function that takes an array of friend names and returns a new array where all the names are converted to uppercase.
+
+Sort Names by Length:
+Write a function that takes an array of friend names and returns a new array where the names are sorted based on their lengths, from shortest to longest.
+
+Reverse Names:
+Write a function that takes an array of friend names and returns a new array where the order of the names is reversed.
+
+Find Palindromic Names:
+Write a function that takes an array of friend names and returns a new array containing only the names that are palindromes.
+
+Count Vowels in Names:
+Write a function that takes an array of friend names and returns an object where each key is a name, and the corresponding value is the count of vowels in that name.
+
+Concatenate Names:
+Write a function that takes an array of friend names and returns a single string that concatenates all the names together, separated by a comma and a space.
+
+Remove Duplicates:
+Write a function that takes an array of friend names and returns a new array with duplicates removed.
+
+Capitalize Names:
+Write a function that takes an array of friend names and returns a new array where the first letter of each name is capitalized.
+
+Find Names Ending with a Specific Letter:
+Write a function that takes an array of friend names and a specific letter and returns a new array containing only the names that end with that letter.
+
+These tasks should provide a good variety of challenges to enhance your understanding of working with arrays and functions in JavaScript. Feel free to tackle them in any order you prefer! Let me know if you need further clarification on any of the tasks.
